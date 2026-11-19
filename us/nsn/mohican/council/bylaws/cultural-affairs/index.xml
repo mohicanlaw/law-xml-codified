@@ -6,8 +6,8 @@
     <history>
       <adopted>2024-09-03</adopted>
     </history>
-    <recency through="2024-12-03">
-      <doc id="Stockbridge-Munsee Tribal Council Res. No. 008-25" type="resolution"/>
+    <recency through="2025-01-07">
+      <doc id="Stockbridge-Munsee Tribal Council Meeting 2025-01-07" type="meeting"/>
     </recency>
   </meta>
   <section>
@@ -235,7 +235,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If a Member has a conflict of interest, and the issue involving the conflict is an agenda item during a Committee meeting, that Member shall recuse themselves from that item.</text>
+        <text>If a Member has a conflict of interest, and the issue involving the conflict is an agenda item during a Committee meeting, that Member shall recuse themselves from that item item (See, ADM.01.16 or other applicable law).</text>
       </para>
       <para>
         <num>(4)</num>
@@ -252,6 +252,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+      <annotation app="2025-01-07" doc="Stockbridge-Munsee Tribal Council Meeting 2025-01-07" eff="2025-01-07" path="" target-path="5|(b)|(3)" type="History"/>
     </annotations>
   </section>
   <section>
